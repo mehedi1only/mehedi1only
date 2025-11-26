@@ -59,7 +59,7 @@ style="border-radius: 25px; box-shadow: 0 0 35px #00eaffc9; margin-bottom:20px;"
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
+<!-- ==================== GITHUB STATS ==================== 
 ## ⚡ GitHub Stats – Neon 3D
 
 <div align="center">
